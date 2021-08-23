@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ID dan Class</title>
+    <style>
+        /* ID bersifat unik dan hanya dianjurkan untuk 1 element
+        penulisan diawali dengan # di css  */
+        #heading1 {
+            color: blue;
+        }
+
+        /* Class bersifat reusable (dapat digunakan kembali sifatnya oleh element)
+        html lainnya penulisannya diawali dengan tanda titik . */
+        .text1 {
+            color: red;
+            font-style: italic;
+        }
+
+        .text2 {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1 id="heading1">Heading ini menggunakan id</h1>
+    <h1 class="text1 text2">Heading ini menggunakan class</h1>
+    <p class="text1 text2">Paragraf ini menggunakan class</p>
+    <h3 class="text1 text2">Heading 3 menggunakan class</h3>
+</body>
+</html>

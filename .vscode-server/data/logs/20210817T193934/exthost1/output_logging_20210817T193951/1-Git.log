@@ -1,0 +1,23 @@
+Validating found git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/ahmadazizf
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git add -A -- /home/ahmadazizf/homework/tugas2/ahmadaziz.html
+> git remote add homework git@github.com:ahmadazizf/homework.git
+fatal: remote homework already exists.
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/ahmadazizf/homework/tugas2/ahmadaziz.html
+> git remote add homework_ https://github.com/ahmadazizf/homework.git
+Opening repository for path='/home/ahmadazizf' failed; ex=Canceled: Canceled
+Open repository: /home/ahmadazizf/homework
+Opening repository for path='/home/ahmadazizf/.bash_history' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/ahmadazizf/.bash_logout' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/ahmadazizf/.bashrc' failed; ex=Error: spawn ENOTDIR
+Open repository: /home/ahmadazizf
+Opening repository for path='/home/ahmadazizf/.cache' failed; ex=Canceled: Canceled

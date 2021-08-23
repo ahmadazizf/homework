@@ -1,0 +1,16 @@
+[2021-08-23 09:17:46.006] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-08-23 09:17:46.163] [remoteagent] [info] Extension host agent started.
+[2021-08-23 09:17:46.460] [remoteagent] [info] [::ffff:172.26.32.1][772891e3][ManagementConnection] New connection established.
+[2021-08-23 09:17:46.471] [remoteagent] [info] [::ffff:172.26.32.1][afa49bf6][ExtensionHostConnection] New connection established.
+[2021-08-23 09:17:55.519] [remoteagent] [error] [resolve shell env] Could not resolve shell environment within 10 seconds. Proceeding without shell environment...
+[2021-08-23 09:17:55.520] [remoteagent] [error] getUnixShellEnvironment#error An unknown error occurred. Please consult the log for more details.
+[2021-08-23 09:17:55.530] [remoteagent] [info] [::ffff:172.26.32.1][afa49bf6][ExtensionHostConnection] <79> Launched Extension Host Process.

@@ -1,0 +1,348 @@
+Validating found git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/ahmadazizf
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :homework/tugas3/index.html
+> git ls-files --stage -- /home/ahmadazizf/homework/tugas3/index.html
+> git show --textconv :homework/tugas3/toreamur.test.js
+> git ls-files --stage -- /home/ahmadazizf/homework/tugas3/toreamur.test.js
+> git show --textconv :homework/tugas3/Converter.js
+> git ls-files --stage -- /home/ahmadazizf/homework/tugas3/Converter.js
+> git show --textconv :homework/tugas3/index.html
+> git ls-files --stage -- /home/ahmadazizf/homework/tugas3/index.html
+> git show --textconv :homework/tugas3/toreamur.test.js
+> git ls-files --stage -- /home/ahmadazizf/homework/tugas3/toreamur.test.js
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :homework/tugas3/Converter.js
+> git ls-files --stage -- /home/ahmadazizf/homework/tugas3/Converter.js
+> git show --textconv :homework/tugas3/package.json
+> git ls-files --stage -- /home/ahmadazizf/homework/tugas3/package.json
+> git show --textconv :homework/tugas3/toreamur.test.js
+> git ls-files --stage -- /home/ahmadazizf/homework/tugas3/toreamur.test.js
+> git show --textconv :homework/tugas3/Converter.js
+> git ls-files --stage -- /home/ahmadazizf/homework/tugas3/Converter.js
+> git show --textconv :homework/tugas3/toreamur.test.js
+> git ls-files --stage -- /home/ahmadazizf/homework/tugas3/toreamur.test.js
+> git check-ignore -v -z --stdin
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/ahmadazizf/homework/tugas3/toreamur.test.js
+> git show --textconv :homework/tugas2/ahmadaziz.html
+> git ls-files --stage -- /home/ahmadazizf/homework/tugas2/ahmadaziz.html
+> git cat-file -s 3ef8b3a14e8fcf564aa171d103f1c1841a736ad3
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/ahmadazizf/homework/tugas2/ahmadaziz.html
+> git show --textconv :.bash_history
+> git ls-files --stage -- /home/ahmadazizf/.bash_history
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :homework/tugas2/ahmadaziz.html
+> git ls-files --stage -- /home/ahmadazizf/homework/tugas2/ahmadaziz.html
+> git cat-file -s 3ef8b3a14e8fcf564aa171d103f1c1841a736ad3
+> git show --textconv :.bash_history
+> git ls-files --stage -- /home/ahmadazizf/.bash_history
+> git show --textconv :homework/tugas2/ahmadaziz.html
+> git ls-files --stage -- /home/ahmadazizf/homework/tugas2/ahmadaziz.html
+> git cat-file -s 3ef8b3a14e8fcf564aa171d103f1c1841a736ad3
+> git show --textconv :homework/tugas3/Converter.js
+> git ls-files --stage -- /home/ahmadazizf/homework/tugas3/Converter.js
+> git show --textconv :homework/tugas2/ahmadaziz.html
+> git ls-files --stage -- /home/ahmadazizf/homework/tugas2/ahmadaziz.html
+> git cat-file -s 3ef8b3a14e8fcf564aa171d103f1c1841a736ad3
+> git show --textconv :homework/tugas3/changecolor.js
+> git ls-files --stage -- /home/ahmadazizf/homework/tugas3/changecolor.js
+> git show --textconv :homework/tugas2/ahmadaziz.html
+> git ls-files --stage -- /home/ahmadazizf/homework/tugas2/ahmadaziz.html
+> git cat-file -s 3ef8b3a14e8fcf564aa171d103f1c1841a736ad3
+> git show --textconv :homework/tugas3/package.json
+> git ls-files --stage -- /home/ahmadazizf/homework/tugas3/package.json
+> git show --textconv :homework/tugas2/ahmadaziz.html
+> git ls-files --stage -- /home/ahmadazizf/homework/tugas2/ahmadaziz.html
+> git cat-file -s 3ef8b3a14e8fcf564aa171d103f1c1841a736ad3
+> git show --textconv :homework/tugas3/index.html
+> git ls-files --stage -- /home/ahmadazizf/homework/tugas3/index.html
+> git show --textconv :homework/tugas2/ahmadaziz.html
+> git ls-files --stage -- /home/ahmadazizf/homework/tugas2/ahmadaziz.html
+> git cat-file -s 3ef8b3a14e8fcf564aa171d103f1c1841a736ad3
+> git show --textconv :homework/tugas3/index.html
+> git ls-files --stage -- /home/ahmadazizf/homework/tugas3/index.html
+> git show --textconv :tugas3/index.html
+> git ls-files --stage -- /home/ahmadazizf/tugas3/index.html
+> git check-ignore -v -z --stdin
+> git show --textconv :homework/tugas3/index.html
+> git ls-files --stage -- /home/ahmadazizf/homework/tugas3/index.html
+> git show --textconv :tugas3/index.html
+> git ls-files --stage -- /home/ahmadazizf/tugas3/index.html
+> git show --textconv :homework/tugas3/index.js
+> git ls-files --stage -- /home/ahmadazizf/homework/tugas3/index.js
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :belajar js/handson/Calculator.html
+> git ls-files --stage -- /home/ahmadazizf/belajar js/handson/Calculator.html
+> git show --textconv :tugas3/index.html
+> git ls-files --stage -- /home/ahmadazizf/tugas3/index.html
+> git show --textconv :homework/tugas3/index.js
+> git ls-files --stage -- /home/ahmadazizf/homework/tugas3/index.js
+> git show --textconv :belajar js/handson/Calculator.html
+> git ls-files --stage -- /home/ahmadazizf/belajar js/handson/Calculator.html
+> git show --textconv :tugas3/index.html
+> git ls-files --stage -- /home/ahmadazizf/tugas3/index.html
+> git show --textconv :homework/tugas3/index.html
+> git ls-files --stage -- /home/ahmadazizf/homework/tugas3/index.html
+> git show --textconv :tugas3/index.html
+> git ls-files --stage -- /home/ahmadazizf/tugas3/index.html
+> git show --textconv :homework/tugas3/index.js
+> git ls-files --stage -- /home/ahmadazizf/homework/tugas3/index.js
+> git show --textconv :tugas3/index.html
+> git ls-files --stage -- /home/ahmadazizf/tugas3/index.html
+> git show --textconv :belajar js/handson/Calculator.html
+> git ls-files --stage -- /home/ahmadazizf/belajar js/handson/Calculator.html
+> git show --textconv :tugas3/index.html
+> git ls-files --stage -- /home/ahmadazizf/tugas3/index.html
+> git show --textconv :homework/tugas3/changecolor.js
+> git ls-files --stage -- /home/ahmadazizf/homework/tugas3/changecolor.js
+> git show --textconv :tugas3/index.html
+> git ls-files --stage -- /home/ahmadazizf/tugas3/index.html
+> git show --textconv :homework/tugas3/index.js
+> git ls-files --stage -- /home/ahmadazizf/homework/tugas3/index.js
+> git show --textconv :homework/tugas3/changecolor.js
+> git ls-files --stage -- /home/ahmadazizf/homework/tugas3/changecolor.js
+> git show --textconv :belajar js/handson/Calculator.html
+> git ls-files --stage -- /home/ahmadazizf/belajar js/handson/Calculator.html
+> git show --textconv :tugas3/Converter.js
+> git ls-files --stage -- /home/ahmadazizf/tugas3/Converter.js
+> git check-ignore -v -z --stdin
+> git show --textconv :homework/tugas3/Converter.js
+> git ls-files --stage -- /home/ahmadazizf/homework/tugas3/Converter.js
+> git show --textconv :tugas3/Converter.js
+> git ls-files --stage -- /home/ahmadazizf/tugas3/Converter.js
+> git show --textconv :homework/tugas3/index.js
+> git ls-files --stage -- /home/ahmadazizf/homework/tugas3/index.js
+> git show --textconv :tugas3/Converter.js
+> git ls-files --stage -- /home/ahmadazizf/tugas3/Converter.js
+> git show --textconv :homework/tugas3/index.js
+> git ls-files --stage -- /home/ahmadazizf/homework/tugas3/index.js
+> git show --textconv :tugas3/index.html
+> git ls-files --stage -- /home/ahmadazizf/tugas3/index.html
+> git show --textconv :tugas3/Converter.js
+> git ls-files --stage -- /home/ahmadazizf/tugas3/Converter.js
+> git show --textconv :homework/tugas3/Converter.js
+> git ls-files --stage -- /home/ahmadazizf/homework/tugas3/Converter.js
+> git show --textconv :tugas3/Converter.js
+> git ls-files --stage -- /home/ahmadazizf/tugas3/Converter.js
+> git show --textconv :belajar js/handson/Calculator.html
+> git ls-files --stage -- /home/ahmadazizf/belajar js/handson/Calculator.html
+> git show --textconv :homework/tugas3/index.js
+> git ls-files --stage -- /home/ahmadazizf/homework/tugas3/index.js
+> git show --textconv :belajar js/handson/Calculator.html
+> git ls-files --stage -- /home/ahmadazizf/belajar js/handson/Calculator.html
+> git show --textconv :tugas3/index.html
+> git ls-files --stage -- /home/ahmadazizf/tugas3/index.html
+> git show --textconv :homework/tugas3/index.html
+> git ls-files --stage -- /home/ahmadazizf/homework/tugas3/index.html
+> git show --textconv :tugas3/index.html
+> git ls-files --stage -- /home/ahmadazizf/tugas3/index.html
+> git check-ignore -v -z --stdin
+> git show --textconv :tugas3/Converter.js
+> git ls-files --stage -- /home/ahmadazizf/tugas3/Converter.js
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :tugas3/package.json
+> git ls-files --stage -- /home/ahmadazizf/tugas3/package.json
+> git show --textconv :tugas3/toreamur.test.js
+> git ls-files --stage -- /home/ahmadazizf/tugas3/toreamur.test.js
+> git check-ignore -v -z --stdin
+> git show --textconv :tugas3/package.json
+> git ls-files --stage -- /home/ahmadazizf/tugas3/package.json
+> git show --textconv :tugas3/toreamur.test.js
+> git ls-files --stage -- /home/ahmadazizf/tugas3/toreamur.test.js
+> git show --textconv :tugas3/index.html
+> git ls-files --stage -- /home/ahmadazizf/tugas3/index.html
+> git show --textconv :tugas3/Converter.js
+> git ls-files --stage -- /home/ahmadazizf/tugas3/Converter.js
+> git show --textconv :tugas3/toreamur.test.js
+> git ls-files --stage -- /home/ahmadazizf/tugas3/toreamur.test.js
+> git show --textconv :tugas3/index.html
+> git ls-files --stage -- /home/ahmadazizf/tugas3/index.html
+> git show --textconv :tugas3/package.json
+> git ls-files --stage -- /home/ahmadazizf/tugas3/package.json
+> git show --textconv :tugas3/Converter.js
+> git ls-files --stage -- /home/ahmadazizf/tugas3/Converter.js
+> git show --textconv :tugas3/toreamur.test.js
+> git ls-files --stage -- /home/ahmadazizf/tugas3/toreamur.test.js
+> git show --textconv :tugas3/Converter.js
+> git ls-files --stage -- /home/ahmadazizf/tugas3/Converter.js
+> git show --textconv :belajar js/handson/Calculator.js
+> git ls-files --stage -- /home/ahmadazizf/belajar js/handson/Calculator.js
+> git show --textconv :tugas3/Converter.js
+> git ls-files --stage -- /home/ahmadazizf/tugas3/Converter.js
+> git show --textconv :tugas3/toreamur.test.js
+> git ls-files --stage -- /home/ahmadazizf/tugas3/toreamur.test.js
+> git show --textconv :belajar js/handson/Calculator.html
+> git ls-files --stage -- /home/ahmadazizf/belajar js/handson/Calculator.html
+> git show --textconv :tugas3/Converter.js
+> git ls-files --stage -- /home/ahmadazizf/tugas3/Converter.js
+> git show --textconv :belajar js/handson/Calculator.html
+> git ls-files --stage -- /home/ahmadazizf/belajar js/handson/Calculator.html
+> git show --textconv :tugas3/index.html
+> git ls-files --stage -- /home/ahmadazizf/tugas3/index.html
+> git show --textconv :tugas3/toreamur.test.js
+> git ls-files --stage -- /home/ahmadazizf/tugas3/toreamur.test.js
+> git show --textconv :tugas3/Converter.js
+> git ls-files --stage -- /home/ahmadazizf/tugas3/Converter.js
+> git show --textconv :belajar js/handson/Calculator.html
+> git ls-files --stage -- /home/ahmadazizf/belajar js/handson/Calculator.html
+> git show --textconv :tugas3/package.json
+> git ls-files --stage -- /home/ahmadazizf/tugas3/package.json
+> git show --textconv :tugas3/toreamur.test.js
+> git ls-files --stage -- /home/ahmadazizf/tugas3/toreamur.test.js
+> git show --textconv :belajar js/handson/Calculator.js
+> git ls-files --stage -- /home/ahmadazizf/belajar js/handson/Calculator.js
+> git show --textconv :tugas3/Converter.js
+> git ls-files --stage -- /home/ahmadazizf/tugas3/Converter.js
+> git show --textconv :tugas3/toreamur.test.js
+> git ls-files --stage -- /home/ahmadazizf/tugas3/toreamur.test.js
+> git show --textconv :belajar js/handson/Calculator.js
+> git ls-files --stage -- /home/ahmadazizf/belajar js/handson/Calculator.js
+> git show --textconv :tugas3/Converter.js
+> git ls-files --stage -- /home/ahmadazizf/tugas3/Converter.js
+> git show --textconv :tugas3/toreamur.test.js
+> git ls-files --stage -- /home/ahmadazizf/tugas3/toreamur.test.js
+> git show --textconv :belajar js/handson/Calculator.js
+> git ls-files --stage -- /home/ahmadazizf/belajar js/handson/Calculator.js
+> git show --textconv :tugas3/Converter.js
+> git ls-files --stage -- /home/ahmadazizf/tugas3/Converter.js
+> git show --textconv :belajar js/handson/Calculator.html
+> git ls-files --stage -- /home/ahmadazizf/belajar js/handson/Calculator.html
+> git show --textconv :tugas3/Converter.js
+> git ls-files --stage -- /home/ahmadazizf/tugas3/Converter.js
+> git show --textconv :tugas3/toreamur.test.js
+> git ls-files --stage -- /home/ahmadazizf/tugas3/toreamur.test.js
+> git show --textconv :tugas3/index.html
+> git ls-files --stage -- /home/ahmadazizf/tugas3/index.html
+> git show --textconv :tugas1/akali.html
+> git ls-files --stage -- /home/ahmadazizf/tugas1/akali.html
+> git cat-file -s 917c637cc149408603dd5a84882e9e81e277b72d
+> git show --textconv :tugas1/styles.css
+> git ls-files --stage -- /home/ahmadazizf/tugas1/styles.css
+> git cat-file -s 332095cc87822ff161191fbf636b48298e35c6c8
+> git show --textconv :tugas1/akali.html
+> git ls-files --stage -- /home/ahmadazizf/tugas1/akali.html
+> git cat-file -s 917c637cc149408603dd5a84882e9e81e277b72d
+> git show --textconv :tugas3/index.html
+> git ls-files --stage -- /home/ahmadazizf/tugas3/index.html
+> git show --textconv :tugas2/ahmadaziz.html
+> git ls-files --stage -- /home/ahmadazizf/tugas2/ahmadaziz.html
+> git cat-file -s a21d4d12d75f66963dfc049b1f82ca9f0eef9919
+> git show --textconv :tugas3/index.html
+> git ls-files --stage -- /home/ahmadazizf/tugas3/index.html
+> git show --textconv :tugas3/package.json
+> git ls-files --stage -- /home/ahmadazizf/tugas3/package.json
+> git show --textconv :tugas3/index.html
+> git ls-files --stage -- /home/ahmadazizf/tugas3/index.html
+> git show --textconv :tugas3/toreamur.test.js
+> git ls-files --stage -- /home/ahmadazizf/tugas3/toreamur.test.js
+> git show --textconv :tugas3/Converter.js
+> git ls-files --stage -- /home/ahmadazizf/tugas3/Converter.js
+> git show --textconv :tugas3/index.html
+> git ls-files --stage -- /home/ahmadazizf/tugas3/index.html
+> git show --textconv :tugas3/toreamur.test.js
+> git ls-files --stage -- /home/ahmadazizf/tugas3/toreamur.test.js
+> git show --textconv :belajar js/handson/Calculator.js
+> git ls-files --stage -- /home/ahmadazizf/belajar js/handson/Calculator.js
+> git show --textconv :tugas3/index.html
+> git ls-files --stage -- /home/ahmadazizf/tugas3/index.html
+> git show --textconv :belajar js/handson/Calculator.js
+> git ls-files --stage -- /home/ahmadazizf/belajar js/handson/Calculator.js
+> git show --textconv :tugas3/toreamur.test.js
+> git ls-files --stage -- /home/ahmadazizf/tugas3/toreamur.test.js
+> git show --textconv :tugas3/index.html
+> git ls-files --stage -- /home/ahmadazizf/tugas3/index.html
+> git show --textconv :tugas3/toreamur.test.js
+> git ls-files --stage -- /home/ahmadazizf/tugas3/toreamur.test.js
+> git show --textconv :belajar js/handson/Calculator.js
+> git ls-files --stage -- /home/ahmadazizf/belajar js/handson/Calculator.js
+> git show --textconv :tugas3/Converter.js
+> git ls-files --stage -- /home/ahmadazizf/tugas3/Converter.js
+> git show --textconv :tugas3/index.html
+> git ls-files --stage -- /home/ahmadazizf/tugas3/index.html
+> git show --textconv :tugas3/Converter.js
+> git ls-files --stage -- /home/ahmadazizf/tugas3/Converter.js
+> git show --textconv :belajar js/handson/Calculator.js
+> git ls-files --stage -- /home/ahmadazizf/belajar js/handson/Calculator.js
+> git show --textconv :tugas3/index.html
+> git ls-files --stage -- /home/ahmadazizf/tugas3/index.html
+> git show --textconv :tugas3/Converter.js
+> git ls-files --stage -- /home/ahmadazizf/tugas3/Converter.js
+> git show --textconv :tugas3/toreamur.test.js
+> git ls-files --stage -- /home/ahmadazizf/tugas3/toreamur.test.js
+> git show --textconv :tugas3/Converter.js
+> git ls-files --stage -- /home/ahmadazizf/tugas3/Converter.js
+> git show --textconv :tugas3/toreamur.test.js
+> git ls-files --stage -- /home/ahmadazizf/tugas3/toreamur.test.js
+> git show --textconv :tugas3/tocelcius.test.js
+> git ls-files --stage -- /home/ahmadazizf/tugas3/tocelcius.test.js
+> git check-ignore -v -z --stdin
+> git show --textconv :tugas3/Converter.js
+> git ls-files --stage -- /home/ahmadazizf/tugas3/Converter.js
+> git show --textconv :tugas3/tocelcius.test.js
+> git ls-files --stage -- /home/ahmadazizf/tugas3/tocelcius.test.js
+> git show --textconv :tugas3/toreamur.test.js
+> git ls-files --stage -- /home/ahmadazizf/tugas3/toreamur.test.js
+> git show --textconv :tugas3/tocelcius.test.js
+> git ls-files --stage -- /home/ahmadazizf/tugas3/tocelcius.test.js
+> git show --textconv :tugas3/Converter.js
+> git ls-files --stage -- /home/ahmadazizf/tugas3/Converter.js
+> git show --textconv :tugas3/tocelcius.test.js
+> git ls-files --stage -- /home/ahmadazizf/tugas3/tocelcius.test.js
+> git show --textconv :tugas3/toreamur.test.js
+> git ls-files --stage -- /home/ahmadazizf/tugas3/toreamur.test.js
+> git show --textconv :tugas3/tocelcius.test.js
+> git ls-files --stage -- /home/ahmadazizf/tugas3/tocelcius.test.js
+> git show --textconv :tugas3/tofahrenheit.test.js
+> git ls-files --stage -- /home/ahmadazizf/tugas3/tofahrenheit.test.js
+> git check-ignore -v -z --stdin
+> git show --textconv :tugas3/tocelcius.test.js
+> git ls-files --stage -- /home/ahmadazizf/tugas3/tocelcius.test.js
+> git show --textconv :tugas3/tofahrenheit.test.js
+> git ls-files --stage -- /home/ahmadazizf/tugas3/tofahrenheit.test.js
+> git show --textconv :tugas3/Converter.js
+> git ls-files --stage -- /home/ahmadazizf/tugas3/Converter.js
+> git show --textconv :tugas3/tofahrenheit.test.js
+> git ls-files --stage -- /home/ahmadazizf/tugas3/tofahrenheit.test.js
+> git show --textconv :tugas3/toreamur.test.js
+> git ls-files --stage -- /home/ahmadazizf/tugas3/toreamur.test.js
+> git show --textconv :tugas3/tofahrenheit.test.js
+> git ls-files --stage -- /home/ahmadazizf/tugas3/tofahrenheit.test.js
+> git show --textconv :tugas3/index.html
+> git ls-files --stage -- /home/ahmadazizf/tugas3/index.html
+> git show --textconv :tugas3/Converter.js
+> git ls-files --stage -- /home/ahmadazizf/tugas3/Converter.js
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :homework/tugas3/Converter.js
+> git ls-files --stage -- /home/ahmadazizf/homework/tugas3/Converter.js
+> git check-ignore -v -z --stdin
+> git show --textconv :homework/tugas3/toreamur.test.js
+> git ls-files --stage -- /home/ahmadazizf/homework/tugas3/toreamur.test.js
+> git show --textconv :homework/tugas3/tofahrenheit.test.js
+> git ls-files --stage -- /home/ahmadazizf/homework/tugas3/tofahrenheit.test.js
+> git show --textconv :homework/tugas3/index.html
+> git ls-files --stage -- /home/ahmadazizf/homework/tugas3/index.html
+> git ls-files --stage -- /home/ahmadazizf/homework/tugas3/index.html
+> git cat-file -s dccf7c3e8b6b910dea3c5464ae4aa9c76b4a8202
+> git show --textconv :homework/tugas3/index.html
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin

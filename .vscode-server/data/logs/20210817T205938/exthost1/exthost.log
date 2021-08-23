@@ -1,0 +1,27 @@
+[2021-08-17 20:59:43.356] [exthost] [info] extension host started
+[2021-08-17 20:59:43.384] [exthost] [info] Lock '/home/ahmadazizf/.vscode-server/data/User/workspaceStorage/0104de1eaaf8febaf9ffacec400b6386/vscode.lock': Lock acquired.
+[2021-08-17 20:59:43.551] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onLanguage:html"}
+[2021-08-17 20:59:43.552] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ahmadazizf/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/extensions/emmet/dist/node/emmetNodeMain
+[2021-08-17 20:59:43.646] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2021-08-17 20:59:43.647] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ahmadazizf/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/extensions/html-language-features/client/dist/node/htmlClientMain
+[2021-08-17 20:59:43.978] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-08-17 20:59:43.979] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ahmadazizf/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/extensions/debug-auto-launch/dist/extension
+[2021-08-17 20:59:43.993] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-08-17 20:59:43.994] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ahmadazizf/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/extensions/git/dist/main
+[2021-08-17 20:59:44.202] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"extensionId":{"value":"christian-kohler.path-intellisense","_lower":"christian-kohler.path-intellisense"},"activationEvent":"*"}
+[2021-08-17 20:59:44.202] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ahmadazizf/.vscode-server/extensions/christian-kohler.path-intellisense-2.4.0/out/extension.js
+[2021-08-17 20:59:44.492] [exthost] [info] ExtensionService#_doActivateExtension HookyQR.beautify {"startup":true,"extensionId":{"value":"HookyQR.beautify","_lower":"hookyqr.beautify"},"activationEvent":"*"}
+[2021-08-17 20:59:44.493] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ahmadazizf/.vscode-server/extensions/hookyqr.beautify-1.5.0/extension
+[2021-08-17 20:59:45.055] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"extensionId":{"value":"ritwickdey.LiveServer","_lower":"ritwickdey.liveserver"},"activationEvent":"*"}
+[2021-08-17 20:59:45.055] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ahmadazizf/.vscode-server/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2021-08-17 20:59:46.250] [exthost] [info] ExtensionService#_doActivateExtension Zignd.html-css-class-completion {"startup":true,"extensionId":{"value":"Zignd.html-css-class-completion","_lower":"zignd.html-css-class-completion"},"activationEvent":"*"}
+[2021-08-17 20:59:46.250] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ahmadazizf/.vscode-server/extensions/zignd.html-css-class-completion-1.20.0/dist/extension.js
+[2021-08-17 20:59:47.009] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-08-17 20:59:47.009] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ahmadazizf/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/extensions/ms-vscode.js-debug/src/extension.js
+[2021-08-17 20:59:58.555] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-08-17 20:59:58.556] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ahmadazizf/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/extensions/merge-conflict/dist/mergeConflictMain
+[2021-08-17 20:59:58.601] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":false,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"onStartupFinished"}
+[2021-08-17 20:59:58.601] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/dist/extension
+[2021-08-17 21:00:15.842] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-08-17 21:00:15.842] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ahmadazizf/.vscode-server/bin/379476f0e13988d90fab105c5c19e7abc8b1dea8/extensions/github/dist/extension.js
+[2021-08-17 21:00:15.928] [exthost] [info] eager extensions activated

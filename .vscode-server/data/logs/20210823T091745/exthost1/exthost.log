@@ -1,0 +1,46 @@
+[2021-08-23 09:17:58.378] [exthost] [info] extension host started
+[2021-08-23 09:17:58.473] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onLanguage:html"}
+[2021-08-23 09:17:58.473] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ahmadazizf/.vscode-server/bin/3866c3553be8b268c8a7f8c0482c0c0177aa8bfa/extensions/emmet/dist/node/emmetNodeMain
+[2021-08-23 09:17:58.832] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2021-08-23 09:17:58.832] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ahmadazizf/.vscode-server/bin/3866c3553be8b268c8a7f8c0482c0c0177aa8bfa/extensions/html-language-features/client/dist/node/htmlClientMain
+[2021-08-23 09:17:59.135] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-08-23 09:17:59.135] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ahmadazizf/.vscode-server/bin/3866c3553be8b268c8a7f8c0482c0c0177aa8bfa/extensions/debug-auto-launch/dist/extension
+[2021-08-23 09:17:59.166] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-08-23 09:17:59.166] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ahmadazizf/.vscode-server/bin/3866c3553be8b268c8a7f8c0482c0c0177aa8bfa/extensions/git/dist/main
+[2021-08-23 09:17:59.369] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"extensionId":{"value":"christian-kohler.path-intellisense","_lower":"christian-kohler.path-intellisense"},"activationEvent":"*"}
+[2021-08-23 09:17:59.369] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ahmadazizf/.vscode-server/extensions/christian-kohler.path-intellisense-2.4.0/out/extension.js
+[2021-08-23 09:17:59.623] [exthost] [info] ExtensionService#_doActivateExtension HookyQR.beautify {"startup":true,"extensionId":{"value":"HookyQR.beautify","_lower":"hookyqr.beautify"},"activationEvent":"*"}
+[2021-08-23 09:17:59.624] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ahmadazizf/.vscode-server/extensions/hookyqr.beautify-1.5.0/extension
+[2021-08-23 09:18:00.310] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"extensionId":{"value":"ritwickdey.LiveServer","_lower":"ritwickdey.liveserver"},"activationEvent":"*"}
+[2021-08-23 09:18:00.310] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ahmadazizf/.vscode-server/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2021-08-23 09:18:02.603] [exthost] [info] ExtensionService#_doActivateExtension Zignd.html-css-class-completion {"startup":true,"extensionId":{"value":"Zignd.html-css-class-completion","_lower":"zignd.html-css-class-completion"},"activationEvent":"*"}
+[2021-08-23 09:18:02.604] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ahmadazizf/.vscode-server/extensions/zignd.html-css-class-completion-1.20.0/dist/extension.js
+[2021-08-23 09:18:02.888] [exthost] [info] Lock '/home/ahmadazizf/.vscode-server/data/User/workspaceStorage/0104de1eaaf8febaf9ffacec400b6386/vscode.lock': Lock acquired.
+[2021-08-23 09:18:03.665] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-08-23 09:18:03.665] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ahmadazizf/.vscode-server/bin/3866c3553be8b268c8a7f8c0482c0c0177aa8bfa/extensions/ms-vscode.js-debug/src/extension.js
+[2021-08-23 09:18:12.938] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-08-23 09:18:12.939] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ahmadazizf/.vscode-server/bin/3866c3553be8b268c8a7f8c0482c0c0177aa8bfa/extensions/merge-conflict/dist/mergeConflictMain
+[2021-08-23 09:18:13.019] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":false,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"onStartupFinished"}
+[2021-08-23 09:18:13.019] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/dist/extension
+[2021-08-23 09:18:20.577] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 5000
+[2021-08-23 09:18:28.937] [exthost] [error] [vscode.html-language-features] provider FAILED
+[2021-08-23 09:18:28.940] [exthost] [error] Canceled: Canceled
+    at b.makeCancelError (/home/ahmadazizf/.vscode-server/bin/3866c3553be8b268c8a7f8c0482c0c0177aa8bfa/extensions/html-language-features/client/dist/node/htmlClientMain.js:1:482373)
+    at b.handleFailedRequest (/home/ahmadazizf/.vscode-server/bin/3866c3553be8b268c8a7f8c0482c0c0177aa8bfa/extensions/html-language-features/client/dist/node/htmlClientMain.js:1:482224)
+    at /home/ahmadazizf/.vscode-server/bin/3866c3553be8b268c8a7f8c0482c0c0177aa8bfa/extensions/html-language-features/client/dist/node/htmlClientMain.js:1:442439
+    at s.provideHover (/home/ahmadazizf/.vscode-server/bin/3866c3553be8b268c8a7f8c0482c0c0177aa8bfa/out/vs/server/remoteExtensionHostProcess.js:85:164654)
+[2021-08-23 09:18:35.260] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-08-23 09:18:35.260] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ahmadazizf/.vscode-server/bin/3866c3553be8b268c8a7f8c0482c0c0177aa8bfa/extensions/github/dist/extension.js
+[2021-08-23 09:18:35.409] [exthost] [info] eager extensions activated
+[2021-08-23 09:20:41.202] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:javascript"}
+[2021-08-23 09:20:41.202] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ahmadazizf/.vscode-server/bin/3866c3553be8b268c8a7f8c0482c0c0177aa8bfa/extensions/typescript-language-features/dist/extension
+[2021-08-23 09:20:47.724] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:typescript"}
+[2021-08-23 09:20:47.725] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ahmadazizf/.vscode-server/bin/3866c3553be8b268c8a7f8c0482c0c0177aa8bfa/extensions/extension-editing/dist/extensionEditingMain
+[2021-08-23 09:23:46.223] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:json"}
+[2021-08-23 09:23:46.224] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ahmadazizf/.vscode-server/bin/3866c3553be8b268c8a7f8c0482c0c0177aa8bfa/extensions/configuration-editing/dist/configurationEditingMain
+[2021-08-23 09:23:46.310] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:json"}
+[2021-08-23 09:23:46.311] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ahmadazizf/.vscode-server/bin/3866c3553be8b268c8a7f8c0482c0c0177aa8bfa/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-08-23 09:23:46.539] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"onLanguage:json"}
+[2021-08-23 09:23:46.539] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ahmadazizf/.vscode-server/bin/3866c3553be8b268c8a7f8c0482c0c0177aa8bfa/extensions/npm/dist/npmMain
+[2021-08-23 13:46:03.472] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features {"startup":false,"extensionId":{"value":"vscode.css-language-features","_lower":"vscode.css-language-features"},"activationEvent":"onLanguage:css"}
+[2021-08-23 13:46:03.479] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ahmadazizf/.vscode-server/bin/3866c3553be8b268c8a7f8c0482c0c0177aa8bfa/extensions/css-language-features/client/dist/node/cssClientMain

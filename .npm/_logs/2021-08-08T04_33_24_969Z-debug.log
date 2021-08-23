@@ -1,0 +1,9 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/bin/node', '/usr/bin/npm', 'init' ]
+2 info using npm@6.14.4
+3 info using node@v10.19.0
+4 verbose config Skipping project config: /home/ahmadazizf/.npmrc. (matches userconfig)
+5 timing npm Completed in 133035ms
+6 error cb() never called!
+7 error This is an error with npm itself. Please report this error at:
+8 error <https://npm.community>

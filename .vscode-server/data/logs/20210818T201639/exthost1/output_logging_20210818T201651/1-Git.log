@@ -1,0 +1,24 @@
+Validating found git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/ahmadazizf
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/ahmadazizf/homework/tugas2/ahmadaziz.html
+> git check-ignore -v -z --stdin
+> git add -A -- /home/ahmadazizf/homework/tugas2/ahmadaziz.html
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/ahmadazizf/homework/tugas2/ahmadaziz.html
+> git remote add new1 git@github.com:ahmadazizf/homework.git
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/ahmadazizf/homework/tugas2/ahmadaziz.html
+> git add -A -- /home/ahmadazizf/homework/tugas2/ahmadaziz.html
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/ahmadazizf/homework/tugas2/ahmadaziz.html
+> git check-ignore -v -z --stdin
+Opening repository for path='/home/ahmadazizf' failed; ex=Canceled: Canceled
+Open repository: /home/ahmadazizf/homework
+Warning: Failed to watch ref '/home/ahmadazizf/homework/.git/refs/remotes/origin/master', is most likely packed.
+Opening repository for path='/home/ahmadazizf/.bash_history' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/ahmadazizf/.bash_logout' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/ahmadazizf/.bashrc' failed; ex=Error: spawn ENOTDIR
+Open repository: /home/ahmadazizf
+Opening repository for path='/home/ahmadazizf/.cache' failed; ex=Canceled: Canceled

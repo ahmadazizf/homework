@@ -1,0 +1,157 @@
+["INFO" - 7:40:07 PM] Extension Name: esbenp.prettier-vscode.
+["INFO" - 7:40:08 PM] Extension Version: 8.1.0.
+["INFO" - 7:45:00 PM] Formatting /home/ahmadazizf/tugas2/ahmadaziz.html
+["INFO" - 7:45:00 PM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 7:45:00 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 7:45:00 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 7:45:00 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/tugas2/ahmadaziz.html",
+  "parser": "html"
+}
+["INFO" - 7:45:01 PM] Formatting completed in 151.0117ms.
+["INFO" - 8:33:37 PM] Formatting /home/ahmadazizf/tugas2/ahmadaziz.html
+["INFO" - 8:33:37 PM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 8:33:37 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 8:33:37 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:33:37 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/tugas2/ahmadaziz.html",
+  "parser": "html"
+}
+["INFO" - 8:33:38 PM] Formatting completed in 921.851ms.
+["INFO" - 8:36:31 PM] Formatting /home/ahmadazizf/tugas2/ahmadaziz.html
+["INFO" - 8:36:31 PM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 8:36:31 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 8:36:31 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:36:31 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/tugas2/ahmadaziz.html",
+  "parser": "html"
+}
+["INFO" - 8:36:32 PM] Formatting completed in 560.7129ms.
+["INFO" - 8:42:22 PM] Formatting /home/ahmadazizf/tugas2/ahmadaziz.html
+["INFO" - 8:42:22 PM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 8:42:22 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 8:42:22 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:42:22 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/tugas2/ahmadaziz.html",
+  "parser": "html"
+}
+["INFO" - 8:42:23 PM] Formatting completed in 590.4979ms.
+["INFO" - 8:49:14 PM] Formatting /home/ahmadazizf/homework/tugas2/ahmadaziz.html
+["INFO" - 8:49:14 PM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 8:49:14 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 8:49:14 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 8:49:14 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/homework/tugas2/ahmadaziz.html",
+  "parser": "html"
+}
+["INFO" - 8:49:15 PM] Formatting completed in 965.6235ms.

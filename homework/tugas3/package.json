@@ -1,0 +1,14 @@
+{
+   "name": "tugas3",
+   "version": "1.0.0",
+   "description": "",
+   "main": "Converter.js",
+   "scripts": {
+      "test": "jest"
+   },
+   "author": "",
+   "license": "ISC",
+   "devDependencies": {
+      "jest": "^27.0.6"
+   }
+}

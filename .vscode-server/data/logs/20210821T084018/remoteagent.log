@@ -1,0 +1,26 @@
+[2021-08-21 08:40:18.593] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-08-21 08:40:18.593] [remoteagent] [info] Extension host agent started.
+[2021-08-21 08:40:19.589] [remoteagent] [info] [::ffff:172.26.32.1][bd48f6ca][ManagementConnection] New connection established.
+[2021-08-21 08:40:19.599] [remoteagent] [info] [::ffff:172.26.32.1][658842ce][ExtensionHostConnection] New connection established.
+[2021-08-21 08:40:28.207] [remoteagent] [info] [::ffff:172.26.32.1][658842ce][ExtensionHostConnection] <122> Launched Extension Host Process.
+[2021-08-21 17:48:52.640] [remoteagent] [info] [::ffff:172.26.32.1][bd48f6ca][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2021-08-21 17:49:04.694] [remoteagent] [info] [::ffff:172.26.32.1][bd48f6ca][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2021-08-21 17:49:04.696] [remoteagent] [info] [::ffff:172.26.32.1][bd48f6ca][ManagementConnection] The client has reconnected.
+[2021-08-21 17:49:04.711] [remoteagent] [info] [::ffff:172.26.32.1][658842ce][ExtensionHostConnection] The client has reconnected.
+[2021-08-21 17:49:15.082] [remoteagent] [info] [::ffff:172.26.32.1][bd48f6ca][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2021-08-21 17:49:17.579] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-08-21 17:49:26.645] [remoteagent] [info] [::ffff:172.26.32.1][bd48f6ca][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2021-08-21 17:49:26.646] [remoteagent] [info] [::ffff:172.26.32.1][658842ce][ExtensionHostConnection] The client has reconnected.
+[2021-08-21 17:49:26.649] [remoteagent] [info] [::ffff:172.26.32.1][bd48f6ca][ManagementConnection] The client has reconnected.
+[2021-08-21 22:35:34.404] [remoteagent] [info] [::ffff:172.26.32.1][bd48f6ca][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-08-21 22:35:35.927] [remoteagent] [info] [::ffff:172.26.32.1][658842ce][ExtensionHostConnection] <122> Extension Host Process exited with code: 0, signal: null.
+[2021-08-21 22:35:35.928] [remoteagent] [info] Last EH closed, waiting before shutting down

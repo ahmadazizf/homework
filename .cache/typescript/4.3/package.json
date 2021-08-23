@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "dependencies": {
+    "types-registry": "^0.1.555"
+  },
+  "devDependencies": {
+    "@types/bootstrap": "^5.1.2",
+    "@types/co": "^4.6.2",
+    "@types/sprintf": "^0.1.0"
+  }
+}

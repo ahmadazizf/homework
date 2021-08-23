@@ -1,0 +1,95 @@
+["INFO" - 6:50:22 PM] Extension Name: esbenp.prettier-vscode.
+["INFO" - 6:50:22 PM] Extension Version: 8.1.0.
+["INFO" - 7:43:41 PM] Formatting /home/ahmadazizf/belajar js/book.html
+["INFO" - 7:43:41 PM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 7:43:41 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 7:43:41 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 7:43:41 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/belajar js/book.html",
+  "parser": "html"
+}
+["INFO" - 7:43:41 PM] Formatting completed in 310.1673ms.
+["INFO" - 7:44:50 PM] Formatting /home/ahmadazizf/belajar js/book.html
+["INFO" - 7:44:50 PM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 7:44:50 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 7:44:50 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 7:44:50 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/belajar js/book.html",
+  "parser": "html"
+}
+["INFO" - 7:44:50 PM] Formatting completed in 87.9206ms.
+["INFO" - 7:48:29 PM] Formatting /home/ahmadazizf/belajar js/book.html
+["INFO" - 7:48:29 PM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 7:48:29 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 7:48:29 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 7:48:29 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/belajar js/book.html",
+  "parser": "html"
+}
+["INFO" - 7:48:29 PM] Formatting completed in 82.2722ms.

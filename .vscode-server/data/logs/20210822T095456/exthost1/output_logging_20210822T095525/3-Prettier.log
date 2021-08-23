@@ -1,0 +1,2679 @@
+["INFO" - 9:55:25 AM] Extension Name: esbenp.prettier-vscode.
+["INFO" - 9:55:26 AM] Extension Version: 8.1.0.
+["INFO" - 10:04:47 AM] Formatting /home/ahmadazizf/homework/tugas3/index.js
+["INFO" - 10:04:47 AM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 10:04:47 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 10:04:47 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:04:47 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/homework/tugas3/index.js",
+  "parser": "babel"
+}
+["INFO" - 10:04:47 AM] Formatting completed in 162.801ms.
+["INFO" - 10:04:49 AM] Formatting /home/ahmadazizf/homework/tugas3/changecolor.js
+["INFO" - 10:04:49 AM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 10:04:49 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 10:04:49 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:04:49 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/homework/tugas3/changecolor.js",
+  "parser": "babel"
+}
+["INFO" - 10:04:49 AM] Formatting completed in 46.2729ms.
+["INFO" - 10:07:23 AM] Formatting /home/ahmadazizf/homework/tugas3/index.html
+["INFO" - 10:07:23 AM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 10:07:23 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 10:07:23 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:07:23 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/homework/tugas3/index.html",
+  "parser": "html"
+}
+["INFO" - 10:07:23 AM] Formatting completed in 401.6716ms.
+["INFO" - 10:53:43 AM] Formatting /home/ahmadazizf/homework/tugas3/Converter.js
+["INFO" - 10:53:43 AM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 10:53:43 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 10:53:43 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:53:43 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/homework/tugas3/Converter.js",
+  "parser": "babel"
+}
+["INFO" - 10:53:43 AM] Formatting completed in 111.6035ms.
+["INFO" - 10:53:44 AM] Formatting /home/ahmadazizf/homework/tugas3/index.js
+["INFO" - 10:53:44 AM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 10:53:44 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 10:53:44 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:53:44 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/homework/tugas3/index.js",
+  "parser": "babel"
+}
+["INFO" - 10:53:44 AM] Formatting completed in 77.7116ms.
+["INFO" - 10:55:51 AM] Formatting /home/ahmadazizf/belajar js/handson/kalkulator.html
+["INFO" - 10:55:51 AM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 10:55:51 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 10:55:51 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:55:51 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/belajar js/handson/kalkulator.html",
+  "parser": "html"
+}
+["INFO" - 10:55:51 AM] Formatting completed in 107.2771ms.
+["INFO" - 11:00:44 AM] Formatting /home/ahmadazizf/belajar js/handson/kalkulator.html
+["INFO" - 11:00:44 AM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 11:00:44 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 11:00:44 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:00:44 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/belajar js/handson/kalkulator.html",
+  "parser": "html"
+}
+["INFO" - 11:00:45 AM] Formatting completed in 78.7745ms.
+["INFO" - 11:10:31 AM] Formatting /home/ahmadazizf/belajar js/handson/kalkulator.html
+["INFO" - 11:10:31 AM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 11:10:31 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 11:10:31 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:10:31 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/belajar js/handson/kalkulator.html",
+  "parser": "html"
+}
+["INFO" - 11:10:31 AM] Formatting completed in 226.6873ms.
+["INFO" - 11:11:34 AM] Formatting /home/ahmadazizf/belajar js/handson/kalkulator.html
+["INFO" - 11:11:34 AM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 11:11:34 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 11:11:34 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:11:34 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/belajar js/handson/kalkulator.html",
+  "parser": "html"
+}
+["INFO" - 11:11:35 AM] Formatting completed in 120.918ms.
+["INFO" - 11:25:02 AM] Formatting /home/ahmadazizf/belajar js/handson/kalkulator.html
+["INFO" - 11:25:02 AM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 11:25:02 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 11:25:02 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:25:02 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/belajar js/handson/kalkulator.html",
+  "parser": "html"
+}
+["INFO" - 11:25:02 AM] Formatting completed in 327.3917ms.
+["INFO" - 11:31:36 AM] Formatting /home/ahmadazizf/belajar js/handson/kalkulator.html
+["INFO" - 11:31:36 AM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 11:31:36 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 11:31:36 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:31:36 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/belajar js/handson/kalkulator.html",
+  "parser": "html"
+}
+["INFO" - 11:31:37 AM] Formatting completed in 360.2174ms.
+["INFO" - 11:37:18 AM] Formatting /home/ahmadazizf/belajar js/handson/kalkulator.html
+["INFO" - 11:37:18 AM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 11:37:18 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 11:37:18 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:37:18 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/belajar js/handson/kalkulator.html",
+  "parser": "html"
+}
+["INFO" - 11:37:18 AM] Formatting completed in 234.0316ms.
+["INFO" - 11:43:11 AM] Formatting /home/ahmadazizf/belajar js/handson/kalkulator.html
+["INFO" - 11:43:11 AM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 11:43:11 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 11:43:11 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:43:11 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/belajar js/handson/kalkulator.html",
+  "parser": "html"
+}
+["INFO" - 11:43:11 AM] Formatting completed in 223.6943ms.
+["INFO" - 11:52:00 AM] Formatting /home/ahmadazizf/belajar js/handson/kalkulator.html
+["INFO" - 11:52:00 AM] Formatting /home/ahmadazizf/belajar js/handson/kalkulator.js
+["INFO" - 11:52:00 AM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 11:52:00 AM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 11:52:00 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 11:52:00 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:52:00 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/belajar js/handson/kalkulator.html",
+  "parser": "html"
+}
+["INFO" - 11:52:00 AM] Formatting completed in 505.7753ms.
+["INFO" - 11:52:00 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 11:52:00 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:52:00 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/belajar js/handson/kalkulator.js",
+  "parser": "babel"
+}
+["INFO" - 11:52:00 AM] Formatting completed in 532.3823ms.
+["INFO" - 12:02:50 PM] Formatting /home/ahmadazizf/belajar js/handson/kalkulator.html
+["INFO" - 12:02:50 PM] Formatting /home/ahmadazizf/belajar js/handson/kalkulator.js
+["INFO" - 12:02:50 PM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 12:02:50 PM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 12:02:50 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 12:02:50 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:02:50 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/belajar js/handson/kalkulator.html",
+  "parser": "html"
+}
+["INFO" - 12:02:51 PM] Formatting completed in 357.9797ms.
+["INFO" - 12:02:51 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 12:02:51 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:02:51 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/belajar js/handson/kalkulator.js",
+  "parser": "babel"
+}
+["INFO" - 12:02:51 PM] Formatting completed in 437.889ms.
+["INFO" - 12:16:08 PM] Formatting /home/ahmadazizf/belajar js/handson/kalkulator.html
+["INFO" - 12:16:08 PM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 12:16:08 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 12:16:08 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:16:08 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/belajar js/handson/kalkulator.html",
+  "parser": "html"
+}
+["INFO" - 12:16:08 PM] Formatting completed in 262.6334ms.
+["INFO" - 12:16:12 PM] Formatting /home/ahmadazizf/belajar js/handson/kalkulator.js
+["INFO" - 12:16:12 PM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 12:16:12 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 12:16:12 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:16:12 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/belajar js/handson/kalkulator.js",
+  "parser": "babel"
+}
+["INFO" - 12:16:12 PM] Formatting completed in 36.3777ms.
+["INFO" - 4:22:15 PM] Formatting /home/ahmadazizf/belajar js/handson/kalkulator.js
+["INFO" - 4:22:15 PM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 4:22:15 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 4:22:15 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 4:22:15 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/belajar js/handson/kalkulator.js",
+  "parser": "babel"
+}
+["INFO" - 4:22:15 PM] Formatting completed in 124.1653ms.
+["INFO" - 4:25:02 PM] Formatting /home/ahmadazizf/belajar js/handson/kalkulator.js
+["INFO" - 4:25:02 PM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 4:25:02 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 4:25:02 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 4:25:02 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/belajar js/handson/kalkulator.js",
+  "parser": "babel"
+}
+["INFO" - 4:25:02 PM] Formatting completed in 65.6126ms.
+["INFO" - 4:51:46 PM] Formatting /home/ahmadazizf/homework/tugas3/package.json
+["INFO" - 4:51:46 PM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 4:51:46 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json-stringify"
+}
+["INFO" - 4:51:46 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 4:51:46 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/homework/tugas3/package.json",
+  "parser": "json-stringify"
+}
+["INFO" - 4:51:46 PM] Formatting completed in 107.4708ms.
+["INFO" - 5:30:24 PM] Formatting /home/ahmadazizf/homework/tugas3/toreamur.tes.js
+["INFO" - 5:30:24 PM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 5:30:24 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 5:30:24 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 5:30:24 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/homework/tugas3/toreamur.tes.js",
+  "parser": "babel"
+}
+["INFO" - 5:30:24 PM] Formatting completed in 103.2692ms.
+["INFO" - 5:30:32 PM] Formatting /home/ahmadazizf/homework/tugas3/Converter.js
+["INFO" - 5:30:32 PM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 5:30:32 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 5:30:32 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 5:30:32 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/homework/tugas3/Converter.js",
+  "parser": "babel"
+}
+["INFO" - 5:30:32 PM] Formatting completed in 86.1896ms.
+["INFO" - 5:30:34 PM] Formatting /home/ahmadazizf/homework/tugas3/toreamur.tes.js
+["INFO" - 5:30:34 PM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 5:30:34 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 5:30:34 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 5:30:34 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/homework/tugas3/toreamur.tes.js",
+  "parser": "babel"
+}
+["INFO" - 5:30:34 PM] Formatting completed in 33.1185ms.
+["INFO" - 5:38:00 PM] Formatting /home/ahmadazizf/homework/tugas3/toreamur.tes.js
+["INFO" - 5:38:00 PM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 5:38:00 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 5:38:00 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 5:38:00 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/homework/tugas3/toreamur.tes.js",
+  "parser": "babel"
+}
+["ERROR" - 5:38:00 PM] Error formatting document.
+["ERROR" - 5:38:00 PM] Unexpected token (5:1)
+  3 |     const converter = new Converter();
+  4 |     expect converter.
+> 5 | })
+    | ^
+SyntaxError: Unexpected token (5:1)
+  3 |     const converter = new Converter();
+  4 |     expect converter.
+> 5 | })
+    | ^
+    at ir (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-babel.js:22:7277)
+    at En (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-babel.js:22:66392)
+    at Object.parse (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-babel.js:22:332006)
+    at Object.parse$a [as parse] (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:13684:19)
+    at coreFormat (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:15215:16)
+    at formatWithCursor$1 (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:15455:14)
+    at /home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:60228:12
+    at Object.format (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:60248:12)
+    at t.default.<anonymous> (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/src/PrettierEditService.ts:476:46)
+    at Generator.next (<anonymous>)
+    at i (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/dist/extension.js:1:6941)
+["INFO" - 5:38:00 PM] Formatting completed in 275.6104ms.
+["INFO" - 5:39:45 PM] Formatting /home/ahmadazizf/homework/tugas3/Converter.js
+["INFO" - 5:39:45 PM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 5:39:45 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 5:39:45 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 5:39:45 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/homework/tugas3/Converter.js",
+  "parser": "babel"
+}
+["INFO" - 5:39:45 PM] Formatting completed in 78.4548ms.
+["INFO" - 5:44:18 PM] Formatting /home/ahmadazizf/homework/tugas3/toreamur.tes.js
+["INFO" - 5:44:18 PM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 5:44:18 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 5:44:18 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 5:44:18 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/homework/tugas3/toreamur.tes.js",
+  "parser": "babel"
+}
+["ERROR" - 5:44:18 PM] Error formatting document.
+["ERROR" - 5:44:18 PM] Unexpected token (5:1)
+  3 |     const converter = new Converter();
+  4 |     expect converter.
+> 5 | });
+    | ^
+SyntaxError: Unexpected token (5:1)
+  3 |     const converter = new Converter();
+  4 |     expect converter.
+> 5 | });
+    | ^
+    at ir (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-babel.js:22:7277)
+    at En (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-babel.js:22:66392)
+    at Object.parse (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-babel.js:22:332006)
+    at Object.parse$a [as parse] (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:13684:19)
+    at coreFormat (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:15215:16)
+    at formatWithCursor$1 (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:15455:14)
+    at /home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:60228:12
+    at Object.format (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:60248:12)
+    at t.default.<anonymous> (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/src/PrettierEditService.ts:476:46)
+    at Generator.next (<anonymous>)
+    at i (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/dist/extension.js:1:6941)
+["INFO" - 5:44:18 PM] Formatting completed in 54.3015ms.
+["INFO" - 5:44:20 PM] Formatting /home/ahmadazizf/homework/tugas3/toreamur.tes.js
+["INFO" - 5:44:20 PM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 5:44:20 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 5:44:20 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 5:44:20 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/homework/tugas3/toreamur.tes.js",
+  "parser": "babel"
+}
+["ERROR" - 5:44:20 PM] Error formatting document.
+["ERROR" - 5:44:20 PM] Unexpected token (5:1)
+  3 |     const converter = new Converter();
+  4 |     expect converter.
+> 5 | });
+    | ^
+SyntaxError: Unexpected token (5:1)
+  3 |     const converter = new Converter();
+  4 |     expect converter.
+> 5 | });
+    | ^
+    at ir (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-babel.js:22:7277)
+    at En (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-babel.js:22:66392)
+    at Object.parse (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-babel.js:22:332006)
+    at Object.parse$a [as parse] (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:13684:19)
+    at coreFormat (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:15215:16)
+    at formatWithCursor$1 (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:15455:14)
+    at /home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:60228:12
+    at Object.format (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:60248:12)
+    at t.default.<anonymous> (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/src/PrettierEditService.ts:476:46)
+    at Generator.next (<anonymous>)
+    at i (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/dist/extension.js:1:6941)
+["INFO" - 5:44:20 PM] Formatting completed in 50.7391ms.
+["INFO" - 5:44:22 PM] Formatting /home/ahmadazizf/homework/tugas3/toreamur.tes.js
+["INFO" - 5:44:22 PM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 5:44:22 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 5:44:22 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 5:44:22 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/homework/tugas3/toreamur.tes.js",
+  "parser": "babel"
+}
+["ERROR" - 5:44:22 PM] Error formatting document.
+["ERROR" - 5:44:22 PM] Unexpected token (5:1)
+  3 |     const converter = new Converter();
+  4 |     expect converter.
+> 5 | });
+    | ^
+SyntaxError: Unexpected token (5:1)
+  3 |     const converter = new Converter();
+  4 |     expect converter.
+> 5 | });
+    | ^
+    at ir (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-babel.js:22:7277)
+    at En (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-babel.js:22:66392)
+    at Object.parse (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-babel.js:22:332006)
+    at Object.parse$a [as parse] (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:13684:19)
+    at coreFormat (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:15215:16)
+    at formatWithCursor$1 (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:15455:14)
+    at /home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:60228:12
+    at Object.format (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:60248:12)
+    at t.default.<anonymous> (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/src/PrettierEditService.ts:476:46)
+    at Generator.next (<anonymous>)
+    at i (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/dist/extension.js:1:6941)
+["INFO" - 5:44:22 PM] Formatting completed in 52.3631ms.
+["INFO" - 5:53:59 PM] Formatting /home/ahmadazizf/belajar js/handson/sum.test.js
+["INFO" - 5:53:59 PM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 5:53:59 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 5:54:00 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 5:54:00 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/belajar js/handson/sum.test.js",
+  "parser": "babel"
+}
+["INFO" - 5:54:00 PM] Formatting completed in 122.1746ms.
+["INFO" - 5:54:14 PM] Formatting /home/ahmadazizf/belajar js/handson/sum.test.js
+["INFO" - 5:54:14 PM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 5:54:14 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 5:54:14 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 5:54:14 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/belajar js/handson/sum.test.js",
+  "parser": "babel"
+}
+["ERROR" - 5:54:14 PM] Error formatting document.
+["ERROR" - 5:54:14 PM] Unexpected token, expected "," (4:16)
+  2 | test("add two numbers", () => {
+  3 |    const calc = new kalkulator();
+> 4 |    expect(calc sum(3, 2)).toBe(5);
+    |                ^
+  5 | });
+  6 |
+SyntaxError: Unexpected token, expected "," (4:16)
+  2 | test("add two numbers", () => {
+  3 |    const calc = new kalkulator();
+> 4 |    expect(calc sum(3, 2)).toBe(5);
+    |                ^
+  5 | });
+  6 |
+    at ir (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-babel.js:22:7277)
+    at En (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-babel.js:22:66392)
+    at Object.parse (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-babel.js:22:332006)
+    at Object.parse$a [as parse] (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:13684:19)
+    at coreFormat (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:15215:16)
+    at formatWithCursor$1 (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:15455:14)
+    at /home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:60228:12
+    at Object.format (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:60248:12)
+    at t.default.<anonymous> (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/src/PrettierEditService.ts:476:46)
+    at Generator.next (<anonymous>)
+    at i (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/dist/extension.js:1:6941)
+["INFO" - 5:54:14 PM] Formatting completed in 50.871ms.
+["INFO" - 5:54:29 PM] Formatting /home/ahmadazizf/belajar js/handson/sum.test.js
+["INFO" - 5:54:29 PM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 5:54:29 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 5:54:29 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 5:54:29 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/belajar js/handson/sum.test.js",
+  "parser": "babel"
+}
+["INFO" - 5:54:29 PM] Formatting completed in 50.8756ms.
+["INFO" - 5:56:46 PM] Formatting /home/ahmadazizf/belajar js/handson/sum.test.js
+["INFO" - 5:56:46 PM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 5:56:46 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 5:56:46 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 5:56:46 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/belajar js/handson/sum.test.js",
+  "parser": "babel"
+}
+["INFO" - 5:56:46 PM] Formatting completed in 33.1969ms.
+["INFO" - 5:57:14 PM] Formatting /home/ahmadazizf/belajar js/handson/Calculator.js
+["INFO" - 5:57:14 PM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 5:57:14 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 5:57:14 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 5:57:14 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/belajar js/handson/Calculator.js",
+  "parser": "babel"
+}
+["INFO" - 5:57:14 PM] Formatting completed in 87.9646ms.
+["INFO" - 6:00:32 PM] Formatting /home/ahmadazizf/belajar js/handson/package.json
+["INFO" - 6:00:32 PM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 6:00:32 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json-stringify"
+}
+["INFO" - 6:00:32 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 6:00:32 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/belajar js/handson/package.json",
+  "parser": "json-stringify"
+}
+["INFO" - 6:00:32 PM] Formatting completed in 25.3848ms.
+["INFO" - 6:01:34 PM] Formatting /home/ahmadazizf/belajar js/handson/sum.test.js
+["INFO" - 6:01:34 PM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 6:01:34 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 6:01:34 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 6:01:34 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/belajar js/handson/sum.test.js",
+  "parser": "babel"
+}
+["INFO" - 6:01:34 PM] Formatting completed in 77.9729ms.
+["INFO" - 6:03:33 PM] Formatting /home/ahmadazizf/belajar js/handson/Calculator.js
+["INFO" - 6:03:33 PM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 6:03:33 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 6:03:33 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 6:03:33 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/belajar js/handson/Calculator.js",
+  "parser": "babel"
+}
+["INFO" - 6:03:33 PM] Formatting completed in 64.7277ms.
+["INFO" - 6:04:24 PM] Formatting /home/ahmadazizf/belajar js/handson/sum.test.js
+["INFO" - 6:04:24 PM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 6:04:24 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 6:04:24 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 6:04:24 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/belajar js/handson/sum.test.js",
+  "parser": "babel"
+}
+["INFO" - 6:04:24 PM] Formatting completed in 49.1907ms.
+["INFO" - 6:11:26 PM] Formatting /home/ahmadazizf/belajar js/handson/Calculator.html
+["INFO" - 6:11:26 PM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 6:11:26 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 6:11:26 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 6:11:26 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/belajar js/handson/Calculator.html",
+  "parser": "html"
+}
+["INFO" - 6:11:26 PM] Formatting completed in 311.1081ms.
+["INFO" - 6:11:28 PM] Formatting /home/ahmadazizf/homework/tugas3/toreamur.tes.js
+["INFO" - 6:11:28 PM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 6:11:28 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 6:11:28 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 6:11:28 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/homework/tugas3/toreamur.tes.js",
+  "parser": "babel"
+}
+["ERROR" - 6:11:28 PM] Error formatting document.
+["ERROR" - 6:11:28 PM] Unexpected token (5:1)
+  3 |     const converter = new index();
+  4 |     expect converter.
+> 5 | });
+    | ^
+SyntaxError: Unexpected token (5:1)
+  3 |     const converter = new index();
+  4 |     expect converter.
+> 5 | });
+    | ^
+    at ir (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-babel.js:22:7277)
+    at En (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-babel.js:22:66392)
+    at Object.parse (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-babel.js:22:332006)
+    at Object.parse$a [as parse] (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:13684:19)
+    at coreFormat (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:15215:16)
+    at formatWithCursor$1 (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:15455:14)
+    at /home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:60228:12
+    at Object.format (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:60248:12)
+    at t.default.<anonymous> (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/src/PrettierEditService.ts:476:46)
+    at Generator.next (<anonymous>)
+    at i (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/dist/extension.js:1:6941)
+["INFO" - 6:11:28 PM] Formatting completed in 45.0274ms.
+["INFO" - 6:17:32 PM] Formatting /home/ahmadazizf/homework/tugas3/toreamur.tes.js
+["INFO" - 6:17:32 PM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 6:17:32 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 6:17:32 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 6:17:32 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/homework/tugas3/toreamur.tes.js",
+  "parser": "babel"
+}
+["INFO" - 6:17:32 PM] Formatting completed in 53.0816ms.
+["INFO" - 6:19:30 PM] Formatting /home/ahmadazizf/homework/tugas3/package.json
+["INFO" - 6:19:30 PM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 6:19:30 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json-stringify"
+}
+["INFO" - 6:19:30 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 6:19:30 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/homework/tugas3/package.json",
+  "parser": "json-stringify"
+}
+["INFO" - 6:19:30 PM] Formatting completed in 25.9715ms.
+["INFO" - 6:19:43 PM] Formatting /home/ahmadazizf/homework/tugas3/toreamur.test.js
+["INFO" - 6:19:43 PM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 6:19:43 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 6:19:43 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 6:19:43 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/homework/tugas3/toreamur.test.js",
+  "parser": "babel"
+}
+["INFO" - 6:19:43 PM] Formatting completed in 103.5254ms.
+["INFO" - 6:25:47 PM] Formatting /home/ahmadazizf/homework/tugas3/Converter.js
+["INFO" - 6:25:47 PM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 6:25:47 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 6:25:47 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 6:25:47 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/homework/tugas3/Converter.js",
+  "parser": "babel"
+}
+["INFO" - 6:25:47 PM] Formatting completed in 66.5384ms.
+["INFO" - 6:27:43 PM] Formatting /home/ahmadazizf/homework/tugas3/package.json
+["INFO" - 6:27:43 PM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 6:27:43 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json-stringify"
+}
+["INFO" - 6:27:43 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 6:27:43 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/homework/tugas3/package.json",
+  "parser": "json-stringify"
+}
+["INFO" - 6:27:43 PM] Formatting completed in 41.1731ms.
+["INFO" - 6:27:47 PM] Formatting /home/ahmadazizf/homework/tugas3/toreamur.test.js
+["INFO" - 6:27:47 PM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 6:27:47 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 6:27:47 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 6:27:47 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/homework/tugas3/toreamur.test.js",
+  "parser": "babel"
+}
+["INFO" - 6:27:47 PM] Formatting completed in 70.6562ms.
+["INFO" - 6:27:51 PM] Formatting /home/ahmadazizf/belajar js/handson/sum.test.js
+["INFO" - 6:27:51 PM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 6:27:51 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 6:27:51 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 6:27:51 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/belajar js/handson/sum.test.js",
+  "parser": "babel"
+}
+["INFO" - 6:27:52 PM] Formatting completed in 63.6775ms.
+["INFO" - 6:28:02 PM] Formatting /home/ahmadazizf/homework/tugas3/Converter.js
+["INFO" - 6:28:02 PM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 6:28:02 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 6:28:02 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 6:28:02 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/homework/tugas3/Converter.js",
+  "parser": "babel"
+}
+["INFO" - 6:28:02 PM] Formatting completed in 51.8484ms.
+["INFO" - 6:28:48 PM] Formatting /home/ahmadazizf/homework/tugas3/index.js
+["INFO" - 6:28:48 PM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 6:28:48 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 6:28:48 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 6:28:48 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/homework/tugas3/index.js",
+  "parser": "babel"
+}
+["ERROR" - 6:28:48 PM] Error formatting document.
+["ERROR" - 6:28:48 PM] Missing semicolon. (34:7)
+  32 |
+  33 | const converter = new Converter();
+> 34 | module exports = index.js;
+     |       ^
+SyntaxError: Missing semicolon. (34:7)
+  32 |
+  33 | const converter = new Converter();
+> 34 | module exports = index.js;
+     |       ^
+    at ir (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-babel.js:22:7277)
+    at En (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-babel.js:22:66392)
+    at Object.parse (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-babel.js:22:332006)
+    at Object.parse$a [as parse] (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:13684:19)
+    at coreFormat (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:15215:16)
+    at formatWithCursor$1 (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:15455:14)
+    at /home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:60228:12
+    at Object.format (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:60248:12)
+    at t.default.<anonymous> (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/src/PrettierEditService.ts:476:46)
+    at Generator.next (<anonymous>)
+    at i (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/dist/extension.js:1:6941)
+["INFO" - 6:28:48 PM] Formatting completed in 59.6764ms.
+["INFO" - 6:30:23 PM] Formatting /home/ahmadazizf/homework/tugas3/index.js
+["INFO" - 6:30:23 PM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 6:30:23 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 6:30:23 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 6:30:23 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/homework/tugas3/index.js",
+  "parser": "babel"
+}
+["INFO" - 6:30:23 PM] Formatting completed in 71.6293ms.
+["INFO" - 6:32:08 PM] Formatting /home/ahmadazizf/homework/tugas3/toreamur.test.js
+["INFO" - 6:32:08 PM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 6:32:08 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 6:32:08 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 6:32:08 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/homework/tugas3/toreamur.test.js",
+  "parser": "babel"
+}
+["INFO" - 6:32:08 PM] Formatting completed in 46.1625ms.
+["INFO" - 6:37:54 PM] Formatting /home/ahmadazizf/homework/tugas3/toreamur.test.js
+["INFO" - 6:37:54 PM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 6:37:54 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 6:37:54 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 6:37:54 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/homework/tugas3/toreamur.test.js",
+  "parser": "babel"
+}
+["INFO" - 6:37:54 PM] Formatting completed in 55.2443ms.
+["INFO" - 6:38:38 PM] Formatting /home/ahmadazizf/homework/tugas3/Converter.js
+["INFO" - 6:38:38 PM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 6:38:38 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 6:38:38 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 6:38:38 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/homework/tugas3/Converter.js",
+  "parser": "babel"
+}
+["INFO" - 6:38:38 PM] Formatting completed in 60.2791ms.
+["INFO" - 6:41:56 PM] Formatting /home/ahmadazizf/homework/tugas3/index.html
+["INFO" - 6:41:56 PM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 6:41:56 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 6:41:56 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 6:41:56 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/homework/tugas3/index.html",
+  "parser": "html"
+}
+["INFO" - 6:41:56 PM] Formatting completed in 255.1854ms.
+["INFO" - 6:43:56 PM] Formatting /home/ahmadazizf/homework/tugas3/index.html
+["INFO" - 6:43:56 PM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 6:43:56 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 6:43:56 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 6:43:56 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/homework/tugas3/index.html",
+  "parser": "html"
+}
+["ERROR" - 6:43:56 PM] Error formatting document.
+["ERROR" - 6:43:56 PM] Unexpected closing tag "html". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (111:1)
+  109 |    ></script>
+  110 |    <script type="module" src="./Converter.js"></script>
+> 111 | </html>
+      | ^^^^^^^
+  112 |
+SyntaxError: Unexpected closing tag "html". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (111:1)
+  109 |    ></script>
+  110 |    <script type="module" src="./Converter.js"></script>
+> 111 | </html>
+      | ^^^^^^^
+  112 |
+    at U (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-html.js:40:2619)
+    at $s (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-html.js:132:2300)
+    at qs (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-html.js:132:3778)
+    at Object.parse (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-html.js:132:4480)
+    at Object.parse$a [as parse] (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:13684:19)
+    at coreFormat (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:15215:16)
+    at formatWithCursor$1 (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:15455:14)
+    at /home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:60228:12
+    at Object.format (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:60248:12)
+    at t.default.<anonymous> (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/src/PrettierEditService.ts:476:46)
+    at Generator.next (<anonymous>)
+    at i (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/dist/extension.js:1:6941)
+["INFO" - 6:43:56 PM] Formatting completed in 107.7986ms.
+["INFO" - 6:44:38 PM] Formatting /home/ahmadazizf/homework/tugas3/index.html
+["INFO" - 6:44:38 PM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 6:44:38 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 6:44:38 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 6:44:38 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/homework/tugas3/index.html",
+  "parser": "html"
+}
+["ERROR" - 6:44:38 PM] Error formatting document.
+["ERROR" - 6:44:38 PM] Unexpected closing tag "html". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (111:1)
+  109 |    ></script>
+  110 |    <script type="module" src="./Converter.js"></script>
+> 111 | </html>
+      | ^^^^^^^
+  112 |
+SyntaxError: Unexpected closing tag "html". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (111:1)
+  109 |    ></script>
+  110 |    <script type="module" src="./Converter.js"></script>
+> 111 | </html>
+      | ^^^^^^^
+  112 |
+    at U (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-html.js:40:2619)
+    at $s (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-html.js:132:2300)
+    at qs (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-html.js:132:3778)
+    at Object.parse (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-html.js:132:4480)
+    at Object.parse$a [as parse] (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:13684:19)
+    at coreFormat (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:15215:16)
+    at formatWithCursor$1 (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:15455:14)
+    at /home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:60228:12
+    at Object.format (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:60248:12)
+    at t.default.<anonymous> (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/src/PrettierEditService.ts:476:46)
+    at Generator.next (<anonymous>)
+    at i (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/dist/extension.js:1:6941)
+["INFO" - 6:44:38 PM] Formatting completed in 50.4092ms.
+["INFO" - 6:45:19 PM] Formatting /home/ahmadazizf/homework/tugas3/index.html
+["INFO" - 6:45:19 PM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 6:45:19 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 6:45:19 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 6:45:19 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/homework/tugas3/index.html",
+  "parser": "html"
+}
+["ERROR" - 6:45:19 PM] Error formatting document.
+["ERROR" - 6:45:19 PM] Unexpected closing tag "html". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (111:1)
+  109 |    ></script>
+  110 |    <script type="module" src="./Converter.js"></script>
+> 111 | </html>
+      | ^^^^^^^
+  112 |
+SyntaxError: Unexpected closing tag "html". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (111:1)
+  109 |    ></script>
+  110 |    <script type="module" src="./Converter.js"></script>
+> 111 | </html>
+      | ^^^^^^^
+  112 |
+    at U (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-html.js:40:2619)
+    at $s (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-html.js:132:2300)
+    at qs (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-html.js:132:3778)
+    at Object.parse (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-html.js:132:4480)
+    at Object.parse$a [as parse] (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:13684:19)
+    at coreFormat (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:15215:16)
+    at formatWithCursor$1 (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:15455:14)
+    at /home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:60228:12
+    at Object.format (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:60248:12)
+    at t.default.<anonymous> (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/src/PrettierEditService.ts:476:46)
+    at Generator.next (<anonymous>)
+    at i (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/dist/extension.js:1:6941)
+["INFO" - 6:45:19 PM] Formatting completed in 57.7966ms.
+["INFO" - 6:45:39 PM] Formatting /home/ahmadazizf/homework/tugas3/index.html
+["INFO" - 6:45:39 PM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 6:45:39 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 6:45:39 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 6:45:39 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/homework/tugas3/index.html",
+  "parser": "html"
+}
+["ERROR" - 6:45:39 PM] Error formatting document.
+["ERROR" - 6:45:39 PM] Unexpected closing tag "html". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (109:1)
+  107 |    ></script>
+  108 |    <script type="module" src="./Converter.js"></script>
+> 109 | </html>
+      | ^^^^^^^
+  110 |
+SyntaxError: Unexpected closing tag "html". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (109:1)
+  107 |    ></script>
+  108 |    <script type="module" src="./Converter.js"></script>
+> 109 | </html>
+      | ^^^^^^^
+  110 |
+    at U (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-html.js:40:2619)
+    at $s (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-html.js:132:2300)
+    at qs (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-html.js:132:3778)
+    at Object.parse (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-html.js:132:4480)
+    at Object.parse$a [as parse] (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:13684:19)
+    at coreFormat (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:15215:16)
+    at formatWithCursor$1 (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:15455:14)
+    at /home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:60228:12
+    at Object.format (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:60248:12)
+    at t.default.<anonymous> (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/src/PrettierEditService.ts:476:46)
+    at Generator.next (<anonymous>)
+    at i (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/dist/extension.js:1:6941)
+["INFO" - 6:45:40 PM] Formatting completed in 56.6446ms.
+["INFO" - 6:45:40 PM] Formatting /home/ahmadazizf/homework/tugas3/index.html
+["INFO" - 6:45:40 PM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 6:45:40 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 6:45:40 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 6:45:40 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/homework/tugas3/index.html",
+  "parser": "html"
+}
+["ERROR" - 6:45:40 PM] Error formatting document.
+["ERROR" - 6:45:40 PM] Unexpected closing tag "html". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (109:1)
+  107 |    ></script>
+  108 |    <script type="module" src="./Converter.js"></script>
+> 109 | </html>
+      | ^^^^^^^
+  110 |
+SyntaxError: Unexpected closing tag "html". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (109:1)
+  107 |    ></script>
+  108 |    <script type="module" src="./Converter.js"></script>
+> 109 | </html>
+      | ^^^^^^^
+  110 |
+    at U (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-html.js:40:2619)
+    at $s (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-html.js:132:2300)
+    at qs (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-html.js:132:3778)
+    at Object.parse (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-html.js:132:4480)
+    at Object.parse$a [as parse] (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:13684:19)
+    at coreFormat (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:15215:16)
+    at formatWithCursor$1 (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:15455:14)
+    at /home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:60228:12
+    at Object.format (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:60248:12)
+    at t.default.<anonymous> (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/src/PrettierEditService.ts:476:46)
+    at Generator.next (<anonymous>)
+    at i (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/dist/extension.js:1:6941)
+["INFO" - 6:45:40 PM] Formatting completed in 50.4318ms.
+["INFO" - 6:46:17 PM] Formatting /home/ahmadazizf/homework/tugas3/index.html
+["INFO" - 6:46:17 PM] Formatting /home/ahmadazizf/homework/tugas3/package.json
+["INFO" - 6:46:17 PM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 6:46:17 PM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 6:46:17 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 6:46:17 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 6:46:17 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/homework/tugas3/index.html",
+  "parser": "html"
+}
+["ERROR" - 6:46:17 PM] Error formatting document.
+["ERROR" - 6:46:17 PM] Unexpected closing tag "html". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (110:1)
+  108 |    ></script>
+  109 |    <script type="module" src="./Converter.js"></script>
+> 110 | </html>
+      | ^^^^^^^
+  111 |
+SyntaxError: Unexpected closing tag "html". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (110:1)
+  108 |    ></script>
+  109 |    <script type="module" src="./Converter.js"></script>
+> 110 | </html>
+      | ^^^^^^^
+  111 |
+    at U (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-html.js:40:2619)
+    at $s (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-html.js:132:2300)
+    at qs (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-html.js:132:3778)
+    at Object.parse (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-html.js:132:4480)
+    at Object.parse$a [as parse] (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:13684:19)
+    at coreFormat (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:15215:16)
+    at formatWithCursor$1 (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:15455:14)
+    at /home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:60228:12
+    at Object.format (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:60248:12)
+    at t.default.<anonymous> (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/src/PrettierEditService.ts:476:46)
+    at Generator.next (<anonymous>)
+    at i (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/dist/extension.js:1:6941)
+["INFO" - 6:46:17 PM] Formatting completed in 46.6592ms.
+["INFO" - 6:46:17 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json-stringify"
+}
+["INFO" - 6:46:17 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 6:46:17 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/homework/tugas3/package.json",
+  "parser": "json-stringify"
+}
+["INFO" - 6:46:17 PM] Formatting completed in 64.516ms.
+["INFO" - 6:48:16 PM] Formatting /home/ahmadazizf/homework/tugas3/Converter.js
+["INFO" - 6:48:16 PM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 6:48:16 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 6:48:16 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 6:48:16 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/homework/tugas3/Converter.js",
+  "parser": "babel"
+}
+["INFO" - 6:48:16 PM] Formatting completed in 47.4198ms.
+["INFO" - 6:48:22 PM] Formatting /home/ahmadazizf/homework/tugas3/index.html
+["INFO" - 6:48:22 PM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 6:48:22 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 6:48:22 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 6:48:22 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/homework/tugas3/index.html",
+  "parser": "html"
+}
+["ERROR" - 6:48:22 PM] Error formatting document.
+["ERROR" - 6:48:22 PM] Unexpected closing tag "html". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (98:1)
+  96 |    ></script>
+  97 |    <script type="module" src="./Converter.js"></script>
+> 98 | </html>
+     | ^^^^^^^
+  99 |
+SyntaxError: Unexpected closing tag "html". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (98:1)
+  96 |    ></script>
+  97 |    <script type="module" src="./Converter.js"></script>
+> 98 | </html>
+     | ^^^^^^^
+  99 |
+    at U (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-html.js:40:2619)
+    at $s (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-html.js:132:2300)
+    at qs (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-html.js:132:3778)
+    at Object.parse (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-html.js:132:4480)
+    at Object.parse$a [as parse] (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:13684:19)
+    at coreFormat (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:15215:16)
+    at formatWithCursor$1 (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:15455:14)
+    at /home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:60228:12
+    at Object.format (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:60248:12)
+    at t.default.<anonymous> (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/src/PrettierEditService.ts:476:46)
+    at Generator.next (<anonymous>)
+    at i (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/dist/extension.js:1:6941)
+["INFO" - 6:48:22 PM] Formatting completed in 44.0501ms.
+["INFO" - 6:50:01 PM] Formatting /home/ahmadazizf/homework/tugas3/index.html
+["INFO" - 6:50:01 PM] Formatting /home/ahmadazizf/homework/tugas3/Converter.js
+["INFO" - 6:50:01 PM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 6:50:01 PM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 6:50:01 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 6:50:01 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 6:50:01 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/homework/tugas3/index.html",
+  "parser": "html"
+}
+["ERROR" - 6:50:01 PM] Error formatting document.
+["ERROR" - 6:50:01 PM] Unexpected closing tag "html". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (68:1)
+  66 |    ></script>
+  67 |    <script type="module" src="./index.js"></script>
+> 68 | </html>
+     | ^^^^^^^
+  69 |
+SyntaxError: Unexpected closing tag "html". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (68:1)
+  66 |    ></script>
+  67 |    <script type="module" src="./index.js"></script>
+> 68 | </html>
+     | ^^^^^^^
+  69 |
+    at U (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-html.js:40:2619)
+    at $s (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-html.js:132:2300)
+    at qs (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-html.js:132:3778)
+    at Object.parse (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-html.js:132:4480)
+    at Object.parse$a [as parse] (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:13684:19)
+    at coreFormat (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:15215:16)
+    at formatWithCursor$1 (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:15455:14)
+    at /home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:60228:12
+    at Object.format (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:60248:12)
+    at t.default.<anonymous> (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/src/PrettierEditService.ts:476:46)
+    at Generator.next (<anonymous>)
+    at i (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/dist/extension.js:1:6941)
+["INFO" - 6:50:01 PM] Formatting completed in 44.0515ms.
+["INFO" - 6:50:01 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 6:50:01 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 6:50:01 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/homework/tugas3/Converter.js",
+  "parser": "babel"
+}
+["INFO" - 6:50:01 PM] Formatting completed in 79.0486ms.
+["INFO" - 6:52:50 PM] Formatting /home/ahmadazizf/homework/tugas3/changecolor.js
+["INFO" - 6:52:50 PM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 6:52:50 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 6:52:50 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 6:52:50 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/homework/tugas3/changecolor.js",
+  "parser": "babel"
+}
+["INFO" - 6:52:50 PM] Formatting completed in 74.7654ms.
+["INFO" - 6:54:56 PM] Formatting /home/ahmadazizf/homework/tugas3/changecolor.js
+["INFO" - 6:54:56 PM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 6:54:56 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 6:54:56 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 6:54:56 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/homework/tugas3/changecolor.js",
+  "parser": "babel"
+}
+["INFO" - 6:54:56 PM] Formatting completed in 70.6772ms.
+["INFO" - 6:55:00 PM] Formatting /home/ahmadazizf/homework/tugas3/Converter.js
+["INFO" - 6:55:00 PM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 6:55:00 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 6:55:00 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 6:55:00 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/homework/tugas3/Converter.js",
+  "parser": "babel"
+}
+["INFO" - 6:55:00 PM] Formatting completed in 71.3455ms.
+["INFO" - 6:55:09 PM] Formatting /home/ahmadazizf/homework/tugas3/index.js
+["INFO" - 6:55:09 PM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 6:55:09 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 6:55:09 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 6:55:09 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/homework/tugas3/index.js",
+  "parser": "babel"
+}
+["INFO" - 6:55:09 PM] Formatting completed in 69.2473ms.
+["INFO" - 6:55:59 PM] Formatting /home/ahmadazizf/homework/tugas3/Converter.js
+["INFO" - 6:55:59 PM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 6:55:59 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 6:55:59 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 6:55:59 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/homework/tugas3/Converter.js",
+  "parser": "babel"
+}
+["INFO" - 6:55:59 PM] Formatting completed in 66.0365ms.
+["INFO" - 6:57:16 PM] Formatting /home/ahmadazizf/homework/tugas3/changecolor.js
+["INFO" - 6:57:16 PM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 6:57:16 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 6:57:16 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 6:57:16 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/homework/tugas3/changecolor.js",
+  "parser": "babel"
+}
+["INFO" - 6:57:16 PM] Formatting completed in 59.3613ms.
+["INFO" - 6:57:49 PM] Formatting /home/ahmadazizf/homework/tugas3/index.js
+["INFO" - 6:57:49 PM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 6:57:49 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 6:57:49 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 6:57:49 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/homework/tugas3/index.js",
+  "parser": "babel"
+}
+["INFO" - 6:57:49 PM] Formatting completed in 63.4317ms.
+["INFO" - 9:35:06 PM] Formatting /home/ahmadazizf/homework/tugas3/index.html
+["INFO" - 9:35:06 PM] Using ignore file (if present) at /home/ahmadazizf/.prettierignore
+["INFO" - 9:35:06 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 9:35:06 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 9:35:06 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 200,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 3,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ahmadazizf/homework/tugas3/index.html",
+  "parser": "html"
+}
+["ERROR" - 9:35:06 PM] Error formatting document.
+["ERROR" - 9:35:06 PM] Unexpected closing tag "html". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (68:1)
+  66 |    ></script>
+  67 |    <script type="module" src="./index.js"></script>
+> 68 | </html>
+     | ^^^^^^^
+  69 |
+SyntaxError: Unexpected closing tag "html". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (68:1)
+  66 |    ></script>
+  67 |    <script type="module" src="./index.js"></script>
+> 68 | </html>
+     | ^^^^^^^
+  69 |
+    at U (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-html.js:40:2619)
+    at $s (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-html.js:132:2300)
+    at qs (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-html.js:132:3778)
+    at Object.parse (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/parser-html.js:132:4480)
+    at Object.parse$a [as parse] (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:13684:19)
+    at coreFormat (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:15215:16)
+    at formatWithCursor$1 (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:15455:14)
+    at /home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:60228:12
+    at Object.format (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/node_modules/prettier/index.js:60248:12)
+    at t.default.<anonymous> (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/src/PrettierEditService.ts:476:46)
+    at Generator.next (<anonymous>)
+    at i (/home/ahmadazizf/.vscode-server/extensions/esbenp.prettier-vscode-8.1.0/dist/extension.js:1:6941)
+["INFO" - 9:35:06 PM] Formatting completed in 158.0259ms.
